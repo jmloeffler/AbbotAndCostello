@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abbot", "Abbot\Abbot.csproj", "{BFEECC13-1DD5-4C19-9CB4-AE3185766F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Costello", "Costello\Costello.csproj", "{A0B2E442-87D0-49E2-9264-0B2B977F1BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEECC13-1DD5-4C19-9CB4-AE3185766F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEECC13-1DD5-4C19-9CB4-AE3185766F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEECC13-1DD5-4C19-9CB4-AE3185766F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEECC13-1DD5-4C19-9CB4-AE3185766F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B2E442-87D0-49E2-9264-0B2B977F1BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B2E442-87D0-49E2-9264-0B2B977F1BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B2E442-87D0-49E2-9264-0B2B977F1BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B2E442-87D0-49E2-9264-0B2B977F1BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
